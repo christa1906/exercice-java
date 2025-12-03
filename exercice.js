@@ -12,7 +12,7 @@ if (word == "oui") {
     if (role == "invité") {
         console.log("Accès restreint");
     }
-    console.log("Bienvenue " + role);
+         console.log("Bienvenue " + role);   
 } else if (word == "non") {
     console.log("Veuillez vous connecter");
 } else {
